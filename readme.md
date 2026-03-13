@@ -7,3 +7,6 @@ HTMLREPORT acık true kalabilir en son istatistik tablosu olarak json ve html ol
 -----------KULLANIN BANA TESEKKÜR EDİN OK DİYİN EN BÜYÜK BOTCU CHEFF BASKAN-----------
 
 BOTCU ERTUYUDA SİKİM OK 
+
+
+![sikikertucuk](https://github.com/user-attachments/assets/ccf9137c-6372-44eb-96bf-63c2055432b3)
