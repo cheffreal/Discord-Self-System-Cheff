@@ -1,0 +1,10 @@
+{
+  "name": "cheff-discord-self-multi-system",
+  "version": "1.0.0",
+  "description": "Discord temizleyici",
+  "license": "MIT",
+  "main": "cheff.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

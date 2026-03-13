@@ -1,0 +1,11 @@
+{
+  "token": "TOKEN GİRCEN OK",
+  "minDelay": 2.5,
+  "maxDelay": 3,
+  "arkadaslariCikar": true,
+  "gelenIstekleriReddet": true,
+  "engelleriKaldir": true,
+  "dmleriKapat": true,
+  "sunuculardanCik": false,
+  "htmlReport": true
+}
